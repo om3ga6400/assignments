@@ -2,7 +2,7 @@ character1 = input("Enter a character: ")
 character2 = input("Enter another character: ")
 place = input("Enter a place: ")
 action1 = input("Enter a past tense action: ")
-action2 = input("Enter a tiring action as if it's in the future: ")
+action2 = input("Enter a tiring future tense action: ")
 action3 = input("Enter the same action but as if currently doing it: ")
 
 print("\nHere's your Madlib:\n")
